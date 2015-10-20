@@ -1,0 +1,7 @@
+resolution: 1024 768
+fullscr: 0
+vsync: 1
+framecap: 60
+volume: 80
+cmap: map1_.txt
+timeStart: 0

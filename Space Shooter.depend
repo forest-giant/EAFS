@@ -1,0 +1,2150 @@
+# depslib dependency file v1.0
+1382821240 source:/home/mihai/Projects/SS Project/Space Shooter/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1400410648 "
+
+1382820979 /home/mihai/Projects/SS Project/Space Shooter/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1399994414 
+
+1384552728 source:/home/mihai/Projects/SS Project/Space Shooter/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1382165357 /home/mihai/Projects/SS Project/Space Shooter/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1383150288 /home/mihai/Projects/SS Project/Space Shooter/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1385243396 /home/mihai/Projects/SS Project/Space Shooter/sources/Player.h
+	"headers.h"
+
+1385155089 source:/home/mihai/Projects/SS Project/Space Shooter/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1400004558 h"
+
+1382216806 /home/mihai/Projects/SS Project/Space Shooter/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1384895751 /home/mihai/Projects/SS Project/Space Shooter/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1384895584 /home/mihai/Projects/SS Project/Space Shooter/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1383854956 /home/mihai/Projects/SS Project/Space Shooter/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1385241467 source:/home/mihai/Projects/SS Project/Space Shooter/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"Console.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1385495722 source:/home/mihai/Projects/SS Project/Space Shooter/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1385153931 source:/home/mihai/Projects/SS Project/Space Shooter/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+
+1384895620 source:/home/mihai/Projects/SS Project/Space Shooter/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"Console.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1384895782 source:/home/mihai/Projects/SS Project/Space Shooter/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	<cmath>
+
+1384520705 source:/home/mihai/Projects/SS Project/Space Shooter/sources/interface.cpp
+	"interface.h"
+
+1390978892 .h"
+
+1385243019 source:/home/mihai/Projects/SS Project/Space Shooter/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+
+1385241911 source:/home/mihai/Projects/SS Project/Space Shooter/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	<cstdlib>
+
+1382819390 /home/mihai/Projects/SS Project/Space Shooter/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1382471385 source:/home/mihai/Projects/SS Project/SS tests/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+
+1382471385 /home/mihai/Projects/SS Project/SS tests/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+
+1382165357 /home/mihai/Projects/SS Project/SS tests/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1382166787 /home/mihai/Projects/SS Project/SS tests/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1382166260 source:/home/mihai/Projects/SS Project/SS tests/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1382166644 /home/mihai/Projects/SS Project/SS tests/sources/Player.h
+	"headers.h"
+
+1382128792 source:/home/mihai/Projects/SS Project/SS tests/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+
+1382216806 /home/mihai/Projects/SS Project/SS tests/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1381520759 /home/mihai/Projects/SS Project/SS tests/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1382129523 /home/mihai/Projects/SS Project/SS tests/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1381520789 /home/mihai/Projects/SS Project/SS tests/sources/interface.h
+	"headers.h"
+
+1382530371 source:/home/mihai/Projects/SS Project/SS tests/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"Console.h"
+	"enemy.h"
+	<cmath>
+
+1382166810 source:/home/mihai/Projects/SS Project/SS tests/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1382166511 source:/home/mihai/Projects/SS Project/SS tests/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+
+1382129748 source:/home/mihai/Projects/SS Project/SS tests/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"Console.h"
+	<cmath>
+	<iostream>
+
+1382129623 source:/home/mihai/Projects/SS Project/SS tests/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	<cmath>
+
+1381561745 source:/home/mihai/Projects/SS Project/SS tests/sources/interface.cpp
+	"interface.h"
+	"Basics.h"
+	"Player.h"
+
+1382167608 source:/home/mihai/Projects/SS Project/SS tests/sources/main.cpp
+	"headers.h"
+	"menus.h"
+
+1381779606 /home/mihai/Projects/SS Project/SS tests/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1382471839 source:/home/mihai/Projects/SS Project/SS tests/sources/menus.cpp
+	"menus.h"
+
+1382817245 source:/home/mihai/Projects/SS Project/Space Shooter/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1382817140 /home/mihai/Projects/SS Project/Space Shooter/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1393092020 mixer.h"
+
+1382821240 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1382820979 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1382165357 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1383150288 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1383149798 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1383247664 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Player.h
+	"headers.h"
+
+1383495505 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+
+1382216806 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1382726185 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1382129523 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1383150778 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1382817140 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1382818060 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"Console.h"
+	"enemy.h"
+	<cmath>
+
+1383428729 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1383250119 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+
+1383429916 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"Console.h"
+	<cmath>
+	<iostream>
+
+1382726517 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	<cmath>
+
+1383150848 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/interface.cpp
+	"interface.h"
+
+1383495909 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/main.cpp
+	"headers.h"
+	"menus.h"
+
+1382819390 /home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1383168797 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	<cstdlib>
+
+1382817245 source:/home/mihai/Dropbox/Current Project/SS Project/Space Shooter/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1384604949 source:/home/mihai/Projects/SS Project/Space Shooter/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+
+1384584712 /home/mihai/Projects/SS Project/Space Shooter/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1385154319 source:/home/mihai/Projects/SS Project/Space Shooter/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	<cmath>
+
+1385154708 /home/mihai/Projects/SS Project/Space Shooter/sources/settings.h
+	<fstream>
+
+1385154708 source:/home/mihai/Projects/SS Project/Space Shooter/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+
+1400003615 source:/home/mihai/Projects/Space Shooter/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1400003225 /home/mihai/Projects/Space Shooter/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1382165357 /home/mihai/Projects/Space Shooter/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387058280 /home/mihai/Projects/Space Shooter/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1391109658 source:/home/mihai/Projects/Space Shooter/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1392447569 /home/mihai/Projects/Space Shooter/sources/Player.h
+	"headers.h"
+
+1394271175 source:/home/mihai/Projects/Space Shooter/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391778096 /home/mihai/Projects/Space Shooter/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1391598243 /home/mihai/Projects/Space Shooter/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392445390 /home/mihai/Projects/Space Shooter/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1390986076 /home/mihai/Projects/Space Shooter/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1400004028 /home/mihai/Projects/Space Shooter/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1400012401 /home/mihai/Projects/Space Shooter/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1393099279 /home/mihai/Projects/Space Shooter/sources/settings.h
+	<fstream>
+
+1391778373 source:/home/mihai/Projects/Space Shooter/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1400421449 source:/home/mihai/Projects/Space Shooter/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1400015359 source:/home/mihai/Projects/Space Shooter/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1394311699 source:/home/mihai/Projects/Space Shooter/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1400014503 source:/home/mihai/Projects/Space Shooter/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+
+1393096821 source:/home/mihai/Projects/Space Shooter/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392475551 source:/home/mihai/Projects/Space Shooter/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1390986092 source:/home/mihai/Projects/Space Shooter/sources/interface.cpp
+	"interface.h"
+
+1393099305 source:/home/mihai/Projects/Space Shooter/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382819390 /home/mihai/Projects/Space Shooter/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1400015434 source:/home/mihai/Projects/Space Shooter/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1393099220 source:/home/mihai/Projects/Space Shooter/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1400005215 source:/home/mihai/Projects/Space Shooter/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1391764357 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1391764222 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1382165357 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387058280 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1391109658 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1392447569 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Player.h
+	"headers.h"
+
+1394271175 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391778096 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1391598243 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392445390 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1390986076 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1382817140 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1384584712 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1393099279 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/settings.h
+	<fstream>
+
+1391778373 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1393099462 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1393099427 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1394311699 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1392475521 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+
+1393096821 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392475551 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1390986092 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/interface.cpp
+	"interface.h"
+
+1393099305 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382819390 /media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1393099409 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1393099220 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1392476483 source:/media/358893b7-92a7-4b8c-89eb-490832e1e776/home/mihai/Projects/Space Shooter/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1399992814 source:c:\users\mihai\desktop\space shooter v1.1\sources\basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1399992424 c:\users\mihai\desktop\space shooter v1.1\sources\basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156425 e.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394940797 orm.h"
+
+1399570937 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394940796 ode.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394940797 c.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940797 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156543 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382154556 c:\users\mihai\desktop\space shooter v1.1\sources\console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387051080 c:\users\mihai\desktop\space shooter v1.1\sources\headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1394304498 source:c:\users\mihai\desktop\space shooter v1.1\sources\bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1392438190 c:\users\mihai\desktop\space shooter v1.1\sources\bullets.h
+	"headers.h"
+	"Basics.h"
+
+1391591042 c:\users\mihai\desktop\space shooter v1.1\sources\enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392440368 c:\users\mihai\desktop\space shooter v1.1\sources\player.h
+	"headers.h"
+
+1400001600 c:\users\mihai\desktop\space shooter v1.1\sources\effects.h
+	"Basics.h"
+	"headers.h"
+
+1391102458 source:c:\users\mihai\desktop\space shooter v1.1\sources\console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1400434728 source:c:\users\mihai\desktop\space shooter v1.1\sources\effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+	"windows.h"
+
+1393089620 source:c:\users\mihai\desktop\space shooter v1.1\sources\enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392468350 source:c:\users\mihai\desktop\space shooter v1.1\sources\enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1394263974 source:c:\users\mihai\desktop\space shooter v1.1\sources\init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391770896 c:\users\mihai\desktop\space shooter v1.1\sources\map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1390978876 c:\users\mihai\desktop\space shooter v1.1\sources\interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1399993228 c:\users\mihai\desktop\space shooter v1.1\sources\sound.h
+	"SDL2/SDL_mixer.h"
+
+1376156425 c:\users\mihai\desktop\space shooter v1.1\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1393092078 c:\users\mihai\desktop\space shooter v1.1\sources\settings.h
+	<fstream>
+
+1390978892 source:c:\users\mihai\desktop\space shooter v1.1\sources\interface.cpp
+	"interface.h"
+
+1393092104 source:c:\users\mihai\desktop\space shooter v1.1\sources\main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382808590 c:\users\mihai\desktop\space shooter v1.1\sources\menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1391771172 source:c:\users\mihai\desktop\space shooter v1.1\sources\map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1400004634 source:c:\users\mihai\desktop\space shooter v1.1\sources\menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1400410648 source:c:\users\mihai\desktop\space shooter v1.1\sources\player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1400004558 source:c:\users\mihai\desktop\space shooter v1.1\sources\run_game.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1393092020 source:c:\users\mihai\desktop\space shooter v1.1\sources\settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1399994414 source:c:\users\mihai\desktop\space shooter v1.1\sources\sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1399992814 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1399992424 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_config.h
+	"SDL_platform.h"
+
+1399570937 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/begin_code.h
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/close_code.h
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156543 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382154556 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387047480 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1394300898 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1392434590 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1391587442 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392436768 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Player.h
+	"headers.h"
+
+1400001600 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1391098858 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1406142602 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+	<time.h>
+	<stdlib.h>
+
+1393086020 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392464750 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1394260374 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391767296 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1390975276 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1399993228 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1376156425 /home/mihai/Dropbox/Projects/Space Shooter v1.1/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1393088478 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/settings.h
+	<fstream>
+
+1390975292 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/interface.cpp
+	"interface.h"
+
+1393088504 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382808590 /home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1391767572 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1400004634 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1400410648 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1400435183 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1393088420 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1399994414 source:/home/mihai/Dropbox/Projects/Space Shooter v1.1/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1400003615 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1400003225 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1382165357 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387058280 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1394311699 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1392445390 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1391598243 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392447569 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Player.h
+	"headers.h"
+
+1400012401 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1391109658 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1406142602 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+	<time.h>
+	<stdlib.h>
+
+1393096821 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392475551 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1394271175 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391778096 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1390986076 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1400004028 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1393099279 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/settings.h
+	<fstream>
+
+1390986092 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/interface.cpp
+	"interface.h"
+
+1393099305 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382819390 /home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1391778373 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1400015434 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1400421449 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1400435183 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1393099220 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1400005215 source:/home/mihai/Desktop/Space shooter/Space Shooter 2/EAFS/Space Shooter v1.1/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+
+1400003615 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Basics.cpp
+	"Basics.h"
+	<fstream>
+	<sstream>
+	"Console.h"
+	"headers.h"
+
+1400003225 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Basics.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+
+1382165357 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Console.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"headers.h"
+	<string>
+
+1387058280 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/headers.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<sstream>
+
+1394311699 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/bullets.cpp
+	"headers.h"
+	"bullets.h"
+	"enemy.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+	<iostream>
+
+1392445390 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/bullets.h
+	"headers.h"
+	"Basics.h"
+
+1391598243 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/enemy.h
+	"headers.h"
+	"Basics.h"
+	<cmath>
+
+1392447569 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Player.h
+	"headers.h"
+
+1400012401 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/effects.h
+	"Basics.h"
+	"headers.h"
+
+1391109658 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Console.cpp
+	"Console.h"
+	"Basics.h"
+	"headers.h"
+	"Player.h"
+	"cstdlib"
+
+1406142602 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/effects.cpp
+	"effects.h"
+	<cmath>
+	"Console.h"
+	<time.h>
+	<stdlib.h>
+
+1393096821 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/enemy.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	<cmath>
+
+1392475551 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/enemy_behave.cpp
+	"enemy.h"
+	"bullets.h"
+	"Player.h"
+	"effects.h"
+	<cmath>
+
+1394271175 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Init.cpp
+	"headers.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	"Player.h"
+	"Map.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1391778096 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Map.h
+	"headers.h"
+	"enemy.h"
+	<fstream>
+
+1390986076 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/interface.h
+	"headers.h"
+	"Basics.h"
+	"Player.h"
+	"Console.h"
+
+1400004028 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/sound.h
+	"SDL2/SDL_mixer.h"
+
+1393099279 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/settings.h
+	<fstream>
+
+1390986092 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/interface.cpp
+	"interface.h"
+
+1393099305 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/main.cpp
+	"headers.h"
+	"menus.h"
+	"settings.h"
+	"SDL2/SDL_mixer.h"
+
+1382819390 /home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/menus.h
+	"Basics.h"
+	"Map.h"
+	"Console.h"
+
+1391778373 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Map.cpp
+	"headers.h"
+	"Map.h"
+	"Basics.h"
+	"enemy.h"
+	<cmath>
+	"settings.h"
+
+1400015434 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/menus.cpp
+	"menus.h"
+	"sound.h"
+	"settings.h"
+	"interface.h"
+	<cstdlib>
+
+1400421449 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/Player.cpp
+	"headers.h"
+	"SDL2/SDL.h"
+	"Player.h"
+	"Basics.h"
+	"Map.h"
+	<cmath>
+	"Console.h"
+	"bullets.h"
+
+1400435183 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/RUN_GAME.cpp
+	"headers.h"
+	"Map.h"
+	"Player.h"
+	"Console.h"
+	"bullets.h"
+	"enemy.h"
+	"interface.h"
+	"Basics.h"
+	"sound.h"
+	"effects.h"
+	"settings.h"
+
+1393099220 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/settings.cpp
+	"settings.h"
+	"Basics.h"
+	"SDL2/SDL_mixer.h"
+
+1400005215 source:/home/mihai/Desktop/EAFS/Space Shooter v1.1/sources/sound.cpp
+	"sound.h"
+	"headers.h"
+	"Console.h"
+	"Player.h"
+	<cmath>
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Space Shooter" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Space Shooter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="SDL2main" />
+					<Add library="SDL2" />
+					<Add library="SDL2_image" />
+					<Add library="SDL2_ttf" />
+					<Add library="SDL2_mixer" />
+					<Add directory="/usr/local/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Space Shooter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="SDL2main" />
+					<Add library="SDL2" />
+					<Add library="SDL2_image" />
+					<Add library="SDL2_ttf" />
+					<Add library="SDL2_mixer" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="sources/Basics.cpp" />
+		<Unit filename="sources/Basics.h" />
+		<Unit filename="sources/Console.cpp" />
+		<Unit filename="sources/Console.h" />
+		<Unit filename="sources/Init.cpp" />
+		<Unit filename="sources/Map.cpp" />
+		<Unit filename="sources/Map.h" />
+		<Unit filename="sources/Player.cpp" />
+		<Unit filename="sources/Player.h" />
+		<Unit filename="sources/RUN_GAME.cpp" />
+		<Unit filename="sources/bullets.cpp" />
+		<Unit filename="sources/bullets.h" />
+		<Unit filename="sources/effects.cpp" />
+		<Unit filename="sources/effects.h" />
+		<Unit filename="sources/enemy.cpp" />
+		<Unit filename="sources/enemy.h" />
+		<Unit filename="sources/enemy_behave.cpp" />
+		<Unit filename="sources/headers.h" />
+		<Unit filename="sources/interface.cpp" />
+		<Unit filename="sources/interface.h" />
+		<Unit filename="sources/main.cpp" />
+		<Unit filename="sources/menus.cpp" />
+		<Unit filename="sources/menus.h" />
+		<Unit filename="sources/settings.cpp" />
+		<Unit filename="sources/settings.h" />
+		<Unit filename="sources/sound.cpp" />
+		<Unit filename="sources/sound.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
